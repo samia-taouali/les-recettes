@@ -1,0 +1,10 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.section1{
+    background-image: url(images/image3.webp);
+    background-size: cover;
+    height: 40rem;
+    background-repeat: no-repeat;
+}
